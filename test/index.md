@@ -1,7 +1,7 @@
 ---
 title: Test Page
 ---
-# [[Home]][2] [[Projects]][0]
+# [[Home]][2] [[Projects]][0] [[Test]][1]
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at turpis et
@@ -68,4 +68,5 @@ tristique ac libero eu interdum. Morbi euismod sapien et purus imperdiet, vel
 porttitor augue interdum. Aliquam non erat lorem.
 
 [0]: /projects/
+[1]: /test/
 [2]: /

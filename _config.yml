@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Mike Ambrisco's Knowledge Dump
-description: A test description location?
+description: My Page Index
+
+* [Projects][0]
+
+[0]: /projects/

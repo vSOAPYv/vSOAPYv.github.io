@@ -1,5 +1,5 @@
 ---
-title: The opening page
+title: Mike Ambrisco's Knowledge Dump
 ---
 
 # [[Projects]][0]   [[Test]][1]

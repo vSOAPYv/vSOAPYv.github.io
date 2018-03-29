@@ -1,1 +1,1 @@
-This is the home page.
+Mike Ambrisco's Projects and Tutorials.

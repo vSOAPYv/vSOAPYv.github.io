@@ -1,3 +1,9 @@
+---
+title: Test Page
+---
+# [[Home]][2] [[Projects]][0]
+---
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at turpis et
 massa facilisis fringilla. In nec tristique neque. Quisque molestie justo at
 metus feugiat, eu porta libero vulputate. Etiam convallis mauris id mi auctor
@@ -60,3 +66,6 @@ dolor laoreet, faucibus eros non, porttitor ligula. Donec blandit, urna id
 semper ultrices, ex nunc tristique est, nec fermentum diam est at nibh. Proin
 tristique ac libero eu interdum. Morbi euismod sapien et purus imperdiet, vel
 porttitor augue interdum. Aliquam non erat lorem.
+
+[0]: /projects/
+[2]: /

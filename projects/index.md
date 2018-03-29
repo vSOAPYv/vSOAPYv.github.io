@@ -4,4 +4,6 @@ title: Projects
 
 # Projects Header
 
-this is the first project
+* [Changing the oil in a fiat][0]
+
+[0]: /projects/tobys_oil/

@@ -1,3 +1,8 @@
 theme: jekyll-theme-minimal
 title: Placeholder Title
 description: A test description
+defaults:
+  - scope:
+    path: "assets/imgs"
+    values:
+      image: true

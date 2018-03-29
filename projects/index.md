@@ -8,4 +8,4 @@ title: Projects
 
 * [Changing the oil in a fiat][0]
 
-[0]: /projects/tobys_oil/
+[0]: /projects/fiat_oil/

@@ -5,7 +5,7 @@ title: Projects
 
 
 
-# Project List
+# Project List:
 
 * [Building a Github Website][4]
 * [Changing the oil in a fiat][3]

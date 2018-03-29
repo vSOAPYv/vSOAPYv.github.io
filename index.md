@@ -5,7 +5,7 @@ title: Mike Ambrisco's Knowledge Dump
 ---
 
 # Most Recent Projects:
-* The Making of a Github Website.[4]
+* [The Making of a Github Website.][4]
 * Step 2 - Placeholder
 
 [0]: /projects/

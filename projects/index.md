@@ -4,7 +4,7 @@ title: Projects
 
 # Projects Header
 
-![game me'me](/img/test.jpg)
+![game meme](/imgs/test.jpg)
 
 * [Changing the oil in a fiat][0]
 

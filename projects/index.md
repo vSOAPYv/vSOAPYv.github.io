@@ -8,9 +8,11 @@ title: Projects
 
 * [Building a Github Website][4]
 * [Changing the oil in a fiat][3]
+* [Plant Growing Projects][5]
 
 [3]: /projects/fiat_oil/
 [0]: /projects/
 [1]: /test/
 [2]: /
 [4]: /projects/website/
+[5]: /projects/plants/

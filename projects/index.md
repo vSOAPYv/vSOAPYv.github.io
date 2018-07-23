@@ -7,8 +7,9 @@ title: Projects
 # Project List:
 
 * [Building a Github Website][4]
-* [Changing the oil in a fiat][3]
+* [Changing the Oil in a Fiat][3]
 * [Plant Growing Projects][5]
+* [Rebilding a Sailboat][6]
 
 [3]: /projects/fiat_oil/
 [0]: /projects/
@@ -16,3 +17,4 @@ title: Projects
 [2]: /
 [4]: /projects/website/
 [5]: /projects/plants/
+[6]: /projects/boat/

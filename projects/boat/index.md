@@ -3,6 +3,10 @@ title: Figment the 28 Ft Ranger Project
 draft: true
 ---
 
+---
+# [[Home]][2]   [[Projects]][0]
+---
+
 Where do I even start.
 
 How about a picture of her now.
@@ -14,3 +18,5 @@ Back in 2015 * CHECK DATE * my friend and I purchased a 1976 * CHECK DATE * Rang
 
 Moving to 2018 and enough work has been done to get her into the water. Now we just need to get the water pump fixed because the impeller died after sitting dry for 3ish years.
 
+[0]: /projects/
+[2]: /

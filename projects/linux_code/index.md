@@ -10,7 +10,8 @@ Trying to post up some code stuff for my linux server for me to remember.
 
 Stuff to add here:
 
-Copy a file, (options) source dest
+Copy a file, cd (options) (source) (dest)
+Make a directory, mkdir (directory)
 
 
 [0]: /projects/

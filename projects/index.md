@@ -1,7 +1,7 @@
 ---
 title: Projects
 ---
-# [[Home]][2]   [[Projects]][0]   [[Test]][1]
+# [[Home]][2]   [[Projects]][0]   [[Test]][1]   [[Code][7]
 ---
 
 # Project List:
@@ -18,3 +18,4 @@ title: Projects
 [4]: /projects/website/
 [5]: /projects/plants/
 [6]: /projects/boat/
+[7]: /projects/code/

@@ -18,4 +18,4 @@ title: Projects
 [4]: /projects/website/
 [5]: /projects/plants/
 [6]: /projects/boat/
-[7]: /projects/code/
+[7]: /projects/linux_code/

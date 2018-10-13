@@ -1,7 +1,7 @@
 ---
 title: Projects
 ---
-# [[Home]][2]   [[Projects]][0]   [[Test]][1]   [[Code][7]
+# [[Home]][2]   [[Projects]][0]   [[Test]][1]   [[Code]][7]
 ---
 
 # Project List:

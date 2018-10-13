@@ -1,7 +1,7 @@
 ---
 title: Projects
 ---
-# [[Home]][2]   [[Projects]][0]   [[Test]][1]   [[Code]][7]
+# [[Home]][2]   [[Projects]][0]   [[Test]][1]
 ---
 
 # Project List:
@@ -10,6 +10,7 @@ title: Projects
 * [Changing the Oil in a Fiat][3]
 * [Plant Growing Projects][5]
 * [Rebilding a Sailboat][6]
+* [Learning Linux][7]
 
 [3]: /projects/fiat_oil/
 [0]: /projects/

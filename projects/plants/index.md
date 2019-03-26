@@ -15,4 +15,4 @@ One of my passions is growing plants. I've grown up outside in vegetable and flo
 [0]: /projects/
 [1]: /test/
 [2]: /
-[4]: /projects/bird_safe_plants/
+[4]: /projects/plants/bird_safe_plants/

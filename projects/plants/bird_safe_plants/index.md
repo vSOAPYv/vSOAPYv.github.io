@@ -5,9 +5,11 @@ draft: true
 
 Everything below I am using for my conures and cocatiel.
 
-Living
+Living Plants:
+
 wandering jew
 
 
-Dry
+Dry Plants:
+
 poplar

@@ -11,7 +11,7 @@ One of my passions is growing plants. I've grown up outside in vegetable and flo
 * [Growing Orchids][3]
 * [Bird Safe Plants][4]
 
-[3]: /projects/plants/orcdids/
+[3]: /projects/plants/orchids/
 [0]: /projects/
 [1]: /test/
 [2]: /

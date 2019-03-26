@@ -4,6 +4,8 @@ title: Test Page
 # [[Home]][2] [[Projects]][0] [[Test]][1]
 ---
 
+added from git
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at turpis et
 massa facilisis fringilla. In nec tristique neque. Quisque molestie justo at
 metus feugiat, eu porta libero vulputate. Etiam convallis mauris id mi auctor

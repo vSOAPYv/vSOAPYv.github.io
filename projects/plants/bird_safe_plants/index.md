@@ -3,4 +3,11 @@ title: Bird Safe Plants
 draft: true
 ---
 
-To be added.
+Everything below I am using for my conures and cocatiel.
+
+Living
+wandering jew
+
+
+Dry
+poplar

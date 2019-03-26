@@ -1,7 +1,7 @@
 ---
 title: Mike Ambrisco's Knowledge Board
 ---
-# [[Projects]][0]   [[Test]][1]
+# [[Projects]][0]   [[Test]][1] [[About Me]][6]
 ---
 
 Updated 2018-07-23, * [Rebuilding a Sailboat][5]

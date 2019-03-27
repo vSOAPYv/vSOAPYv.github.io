@@ -5,6 +5,7 @@ title: Test Page
 ---
 
 added from git
+added also from git
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras at turpis et
 massa facilisis fringilla. In nec tristique neque. Quisque molestie justo at

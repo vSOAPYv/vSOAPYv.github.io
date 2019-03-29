@@ -1,10 +1,9 @@
 ---
 title: Figment the 28 Ft Ranger Project
-draft: true
 ---
 
 ---
-# [[Home]][2]   [[Projects]][0]
+# [[Home]][2]   [[Projects]][0] [[About Me]][1]
 ---
 
 Where do I even start.
@@ -20,3 +19,4 @@ Moving to 2018 and enough work has been done to get her into the water. Now we j
 
 [0]: /projects/
 [2]: /
+[1]: /about/

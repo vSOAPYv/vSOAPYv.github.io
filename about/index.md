@@ -8,7 +8,7 @@ title: Mike Ambrisco, Who am I..
 Work in progress.
 
 Professionally I am a Mechanical Engineer at 
-[[Omni Medical Systems]](https://www.omnimedicalsys.com) providing where we provide 
+[Omni Medical Systems](https://www.omnimedicalsys.com) providing where we provide 
 a fully automatic in flight bladder relief system.
 
 [0]: /

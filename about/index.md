@@ -5,9 +5,11 @@ title: Mike Ambrisco, Who am I..
 ---
 
 ---
-Coppied from my about page*.
-I am a electro-mechanical engineer that likes to tinker and fix objects. I'm
-learning some new skills and am trying to record them on this website. 
+Work in progress.
+
+Professionally I am a Mechanical Engineer at 
+[[Omni Medical Systems]](https://www.omnimedicalsys.com) providing where we provide 
+a fully automatic in flight bladder relief system.
 
 [0]: /
 [7]: /projects/

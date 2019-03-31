@@ -10,6 +10,7 @@ One of my passions is growing plants. I've grown up outside in vegetable and flo
 
 * [Growing Orchids][3]
 * [Bird Safe Plants][4]
+* [Gardening][6]
 
 [3]: /projects/plants/orchids/
 [0]: /projects/
@@ -17,3 +18,4 @@ One of my passions is growing plants. I've grown up outside in vegetable and flo
 [2]: /
 [4]: /projects/plants/bird_safe_plants/
 [5]: /about/
+[6]: /projects/plants/garden/

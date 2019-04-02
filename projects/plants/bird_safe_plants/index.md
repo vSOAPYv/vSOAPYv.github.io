@@ -5,8 +5,8 @@ draft: true
 # [[Home]][2]   [[Projects]][0]   [[Test]][1]
 ---
 
-Everything below I am using for my conures and cocatiel. I will probably 
-end up seporating this into seporate pages at some point.
+Everything below I am using for my Green Cheak Conures and Cockatiel. I will 
+probably end up separating this to unique pages at some point.
 
 ---
 ## **Living Plants:**

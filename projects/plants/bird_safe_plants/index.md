@@ -5,7 +5,7 @@ draft: true
 # [[Home]][2]   [[Projects]][0]   [[Test]][1]
 ---
 
-Everything below I am using for my Green Cheak Conures and Cockatiel. I will 
+Everything below I am using for my two Green-cheeked conures and Cockatiel. I will 
 probably end up separating this to unique pages at some point.
 
 ---

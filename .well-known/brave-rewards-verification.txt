@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ambrisco.net
+Token: 7f98873d7e3f51de760a1e516682aa0569df48d546b71328b3675a1196b163ff

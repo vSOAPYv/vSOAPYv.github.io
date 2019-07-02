@@ -14,6 +14,7 @@ Checkout my [About Page][6] if you would like to know some more about me
 * Step 2 - Placeholder
 
 Updated 2019-03-26  * [About Me][6] Page!!
+
 Updated 2018-07-23, * [Rebuilding a Sailboat][5]
 
 [7]: /projects/

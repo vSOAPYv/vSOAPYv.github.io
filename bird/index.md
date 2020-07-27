@@ -1,5 +1,5 @@
 ---
-title: BirbMC
+BirbMC
 ---
 # [[Home]][0] [[Projects]][7] [[Test]][1] [[About Me]][6]
 ---

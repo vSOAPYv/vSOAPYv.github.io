@@ -10,6 +10,7 @@ Where do I even start.
 
 How about a picture of her now.
 ![Figment](https://i.imgur.com/9XDQPW8.jpg)
+![Figment](https://i.imgur.com/Dr02kcG.png)
 
 The Beginning.
 

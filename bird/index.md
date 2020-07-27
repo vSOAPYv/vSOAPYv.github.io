@@ -8,7 +8,7 @@ Berb
 ---
 A Berb
 # Berb stuff:
-* [Berb Link][4]
+* [Berb Link][2]
 * Step 2 - Placeburb
 
 Updated 2019-03-26  * [Berb Test][1] Page!!

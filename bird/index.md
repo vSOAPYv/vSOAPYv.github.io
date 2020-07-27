@@ -7,7 +7,7 @@ BirbMC
 
 Berb
 ---
-[Imgur](https://i.imgur.com/Dr02kcG.png)
+![Imgur](https://i.imgur.com/Dr02kcG.png)
 A Berb
 # Berb stuff:
 * [Berb Link][2]

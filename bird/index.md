@@ -3,7 +3,7 @@ BirbMC
 ---
 # [[Home]][0] [[Projects]][7] [[Test]][1] [[About Me]][6]
 ---
-![berbmc](https://styles.redditmedia.com/t5_2px70n/styles/communityIcon_ny9j3dtk1f351.png?width=256&s=73cd532faf2c274b6835b2dc0e05666301176748)
+![berbmc](https://imgur.com/a/VJHpbWC)
 
 Berb
 ---

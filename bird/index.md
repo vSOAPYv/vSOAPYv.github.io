@@ -3,10 +3,11 @@ BirbMC
 ---
 # [[Home]][0] [[Projects]][7] [[Test]][1] [[About Me]][6]
 ---
-![berbmc](https://i.imgur.com/Dr02kcG.png)
+
 
 Berb
 ---
+![img](https://i.imgur.com/Dr02kcG.png)
 A Berb
 # Berb stuff:
 * [Berb Link][2]
